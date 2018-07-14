@@ -1,0 +1,3 @@
+sublime					html/css
+visual studio		tools		C#/verwerking-software
+Xampp					MySQL/opslag-software
